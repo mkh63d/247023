@@ -1,4 +1,5 @@
 # 247023
-first changefirst change (made in Sourcetree app)
+first change (made in Sourcetree app)
 second change (made in Github webpage)
-third change (in newBranch.247023)
+third CHANGE (in newBranch.247023)
+I made here a change
